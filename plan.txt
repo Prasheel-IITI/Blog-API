@@ -1,0 +1,8 @@
+Blog Post Website
+	Make a DB -> Fiction
+	Model->User
+		Schema: Name, Password, Email
+	Model-> Story
+		Schema: Title,Body,date,Author
+	Model->Comments
+		Schema: Name,StoryID,content
